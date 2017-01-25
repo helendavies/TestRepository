@@ -19,7 +19,7 @@ O     some numbers
 HE0    some numbers
 H2O   some numbers
 OH    some numbers
-E     some numbers
+E     some different new numbers
 H^    some numbers
 
 E + H2O > H^ + OH + E     some more numbers
