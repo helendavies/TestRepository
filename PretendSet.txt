@@ -2,3 +2,9 @@ This is a pretend chemistry set just to investigate how GitHub works :)
 
 
 Now I make some more changes.
+
+
+And now some more. 
+
+But I want to park this version now and leave it as it is, making any new changes in a new version.
+
